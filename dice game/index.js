@@ -18,7 +18,7 @@ image2.setAttribute("src",rand2);
 
 if(ran>rand)
 {
-    document.querySelector("h1").innerHTML="sara wins 🚩";
+    document.querySelector("h1").innerHTML="ziyaad wins 🚩";
 }
 else if(ran<rand)
 {
